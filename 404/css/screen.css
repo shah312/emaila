@@ -1,0 +1,313 @@
+
+@media (min-width: 992px) and (max-width: 1300px) {
+.app-sec .p-5 {
+	padding: 2rem !important;
+}
+.a-boxes small {
+	top: 155px;
+}
+.app-sec .m-img {
+	margin-top: -40px;
+	border-radius: 30px;
+}
+.app-sec {
+	margin-top: 20px;
+	min-height: 0;
+}
+.app-sec h3 {
+	font-size: 30px;
+}
+footer h3, footer h4 {
+	font-size: 17px;
+}
+footer .socials {
+	padding: 0 3px;
+}
+.big-article .b-tag {
+	top: 260px;
+	bottom: auto;
+}
+.a-boxes .col-lg-6, .a-boxes .col-lg-6 img {
+	width: 100%;
+}
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+.navbar-light .navbar-nav li {
+	display: inline;
+	float: left;
+}
+ul.navbar-nav {
+	display: block;
+	width: 100%;
+}
+.btns {
+	margin-top: -10px;
+}
+.home-banner h1 {
+	font-size: 55px;
+}
+.home-banner img {
+	margin-top: 15px;
+}
+.s-boxes {
+	min-height: 362px;
+}
+.app-sec .p-5 {
+	padding: 2rem !important;
+}
+.a-boxes small {
+	top: 155px;
+}
+.app-sec .m-img {
+	margin-top: -40px;
+	border-radius: 30px;
+}
+.app-sec a img {
+	width: 130px;
+}
+.app-sec h3 {
+	margin-top: -15px;
+}
+.app-sec {
+	margin-top: 20px;
+	height: 189px;
+	min-height: 0;
+}
+.app-sec h3 {
+	font-size: 26px;
+}
+footer .p-5 {
+	padding: 1rem !important;
+}
+footer small {
+	margin: 10px;
+	line-height: 20px;
+	padding-bottom: 20px;
+}
+footer h3 {
+	font-size: 15px;
+}
+footer .socials {
+	font-size: 20px;
+	padding: 0 2px;
+}
+.big-article .b-tag {
+	top: 260px;
+	bottom: auto;
+}
+.a-detail a {
+	margin-top: 10px;
+}
+.questions ul li a {
+	font-size: 12px;
+}
+.questions .col-lg-1 {
+	display: none;
+}
+.big-article .d-none {
+	display: block !important;
+}
+.h-d {
+	display: block;
+}
+.h-m {
+	display: none;
+}
+
+.navbar-nav .dropdown-menu {
+	position: absolute;
+	background:#FFF;
+	left:0;
+}
+.navbar-nav .dropdown-menu li a {
+	padding-left: 10px;
+}
+.a-boxes.b22 img{
+	height:310px;
+}
+	.a-boxes.b22 small{
+		top:280px;
+	}
+}
+
+@media (max-width: 767px) {
+.navbar-light .navbar-nav li {
+	display: inline;
+	float: left;
+}
+ul.navbar-nav {
+	display: block;
+	width: 100%;
+}
+.navbar-light .navbar-nav .nav-link {
+	margin: 0 10px;
+}
+.btns {
+	margin-top: -10px;
+}
+.home-banner h1 {
+	font-size: 55px;
+}
+.home-banner img {
+	margin-top: 15px;
+}
+.app-sec .p-5 {
+	padding: 2rem !important;
+}
+.a-boxes small {
+	top: 155px;
+}
+.media-box img {
+	width: 80px !important;
+}
+.media-box h3 {
+	font-size: 17px;
+}
+.app-sec {
+	min-height: 0;
+	height: 126px;
+}
+.app-sec .m-img {
+	margin-top: -40px;
+	border-radius: 30px;
+}
+.app-sec a img {
+	width: 90px;
+}
+.app-sec h3 {
+	margin-top: -15px;
+}
+.app-sec {
+	margin-top: 20px;
+}
+.app-sec h3 {
+	font-size: 24px;
+}
+footer .p-5 {
+	padding: 1rem !important;
+}
+footer small {
+	margin: 10px;
+	line-height: 20px;
+	padding-bottom: 20px;
+}
+footer h3 {
+	font-size: 15px;
+}
+footer .socials {
+	font-size: 20px;
+	padding: 0 2px;
+}
+.a-detail a {
+	margin-top: 10px;
+}
+.h-d {
+	display: block;
+}
+.h-m {
+	display: none;
+}
+
+.navbar-nav .dropdown-menu {
+	position: absolute;
+	background:#FFF;
+	left:0;
+}
+.navbar-nav .dropdown-menu li a {
+	padding-left: 10px;
+}
+.a-boxes.b22 img{
+	height:280px;
+}
+	.a-boxes.b22 small{
+		top:250px;
+	}
+}
+
+@media (max-width: 575px) {
+.navbar-light .navbar-nav li {
+	display: inline;
+	float: left;
+}
+ul.navbar-nav {
+	display: block;
+	width: 100%;
+}
+.btns {
+	display: block;
+	clear: both;
+	padding: 10px 0;
+}
+.home-banner h1 {
+	font-size: 45px;
+}
+.home-banner img {
+	margin-top: 15px;
+}
+.a-boxes small {
+	top: 50%;
+}
+.app-sec {
+	height: auto;
+}
+.app-sec .p-5 {
+	padding: 2rem !important;
+}
+.app-sec .m-img {
+	margin-top: -10px;
+	border-radius: 30px;
+}
+.app-sec a img {
+	width: 120px;
+}
+.app-sec h3 {
+	margin-top: 0;
+}
+.app-sec {
+	margin-top: 20px;
+}
+footer .p-5 {
+	padding: 1rem !important;
+}
+footer small {
+	margin: 10px;
+	line-height: 20px;
+	padding-bottom: 20px;
+}
+.a-detail a {
+	margin-top: 10px;
+}
+.modal-body form .t-f input {
+	width: 42%;
+}
+.h-d {
+	display: block;
+}
+.h-m {
+	display: none;
+}
+#codeA, #codeB, #codeC, #codeD, #codeE, #pass1, #pass2 {
+	width: 16%;
+}
+.t-f select {
+	width: 31.4%;
+}
+.navbar-nav .dropdown-menu {
+	position: absolute;
+	background:#FFF;
+	left:0;
+}
+.navbar-nav .dropdown-menu li a {
+	padding-left: 10px;
+}
+.a-boxes img {
+	border-radius: 15px;
+    height: 220px;
+    width: 100%;
+    object-fit: cover;
+}
+.a-boxes.b22 img{
+	height:220px;
+}
+}

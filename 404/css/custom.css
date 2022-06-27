@@ -1,0 +1,57 @@
+body{
+	background-color:#f4f4f4;
+	font-family: 'Quicksand', sans-serif;
+/**	font-style: oblique;****/
+}
+
+
+
+
+.found{
+	padding: 50px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+	text-align: center;
+}
+
+.found h1{
+	font-size: 150px;
+	font-weight: bold;
+	color:white;
+	text-shadow: 11px 11px 0 #eb3c50,
+                          11px 11px 0 #eb3c50,
+                         11px 11px 0 #eb3c50,
+                        11px 11px 0#eb3c50;
+	
+}
+.found h2{
+	color: #404048;
+	font-size: 80px;
+	
+
+}
+
+.found p{
+	color: #404048;
+	font-size: 20px;
+
+}
+
+.found img{
+	width: 400px;
+}
+
+.btn{
+	background-color: #eb3c50;
+	color: white;
+	text-align: center;
+}
+
+.btn:hover{
+
+	color: #404048;
+	text-align: center;
+}
+
